@@ -1,5 +1,3 @@
-# todo-app
-
 # App de listagem de tarefas do curso de React do Cod3r.
 
 ### Backend desenvolvido em Node.js com MongoDB.
